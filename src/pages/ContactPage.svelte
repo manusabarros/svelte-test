@@ -1,1 +1,6 @@
-<h1>Contact</h1>
+<script lang="ts">
+    import Contact from "../components/Contact.svelte";
+</script>
+
+<h1>Contact Page</h1>
+<Contact />

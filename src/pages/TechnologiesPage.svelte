@@ -1,1 +1,6 @@
-<h1>Technologies</h1>
+<script lang="ts">
+    import Technologies from "../components/Technologies.svelte";
+</script>
+
+<h1>Technologies Page</h1>
+<Technologies />
